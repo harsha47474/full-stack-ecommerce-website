@@ -204,21 +204,7 @@ full-stack-ecommerce-website/
 - **Desktop**: Full-featured desktop experience
 - **Grid System**: Responsive grid layouts (1-2-3-4 columns)
 
-## 🚀 Deployment
 
-### **Frontend (Vercel/Netlify)**
-```bash
-cd frontend
-npm run build
-# Deploy dist folder
-```
-
-### **Backend (Heroku/Railway)**
-```bash
-cd backend
-# Set environment variables
-# Deploy to your preferred platform
-```
 
 ## 🤝 Contributing
 
@@ -242,10 +228,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email developer@ecommerce.com or create an issue on GitHub.
+For support, email harsha1127achu@gmail.com or create an issue on GitHub.
 
 ---
 
-**Made with ❤️ by the E-commerce Team**
 
 ⭐ Star this repository if you found it helpful!
